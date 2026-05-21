@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/gesix/CMake作业/build",
+  "command": "/usr/bin/c++  -I/home/gesix/CMake作业/modules/M2/include -I/home/gesix/CMake作业/modules/A2/include -I/home/gesix/CMake作业/modules/A1/include -I/home/gesix/CMake作业/common/kalman/include -I/home/gesix/CMake作业/modules/M1/include -I/home/gesix/CMake作业/common/math/include -isystem /usr/include/opencv4 -g -o CMakeFiles/CMaketest.dir/main.cpp.o -c /home/gesix/CMake作业/main.cpp",
+  "file": "/home/gesix/CMake作业/main.cpp"
+},
+{
+  "directory": "/home/gesix/CMake作业/build/common/math",
+  "command": "/usr/bin/c++  -I/home/gesix/CMake作业/common/math/include -isystem /usr/include/opencv4 -g -o CMakeFiles/math.dir/src/Math.cpp.o -c /home/gesix/CMake作业/common/math/src/Math.cpp",
+  "file": "/home/gesix/CMake作业/common/math/src/Math.cpp"
+},
+{
+  "directory": "/home/gesix/CMake作业/build/modules/A1",
+  "command": "/usr/bin/c++  -I/home/gesix/CMake作业/modules/A1/include -g -o CMakeFiles/A1.dir/src/A11.cpp.o -c /home/gesix/CMake作业/modules/A1/src/A11.cpp",
+  "file": "/home/gesix/CMake作业/modules/A1/src/A11.cpp"
+},
+{
+  "directory": "/home/gesix/CMake作业/build/modules/A1",
+  "command": "/usr/bin/c++  -I/home/gesix/CMake作业/modules/A1/include -g -o CMakeFiles/A1.dir/src/A12.cpp.o -c /home/gesix/CMake作业/modules/A1/src/A12.cpp",
+  "file": "/home/gesix/CMake作业/modules/A1/src/A12.cpp"
+},
+{
+  "directory": "/home/gesix/CMake作业/build/modules/A1",
+  "command": "/usr/bin/c++  -I/home/gesix/CMake作业/modules/A1/include -g -o CMakeFiles/A1.dir/src/A13.cpp.o -c /home/gesix/CMake作业/modules/A1/src/A13.cpp",
+  "file": "/home/gesix/CMake作业/modules/A1/src/A13.cpp"
+},
+{
+  "directory": "/home/gesix/CMake作业/build/modules/A2",
+  "command": "/usr/bin/c++  -I/home/gesix/CMake作业/modules/A2/include -g -o CMakeFiles/A2.dir/src/A2.cpp.o -c /home/gesix/CMake作业/modules/A2/src/A2.cpp",
+  "file": "/home/gesix/CMake作业/modules/A2/src/A2.cpp"
+},
+{
+  "directory": "/home/gesix/CMake作业/build/modules/M1",
+  "command": "/usr/bin/c++  -I/home/gesix/CMake作业/modules/M1/include -I/home/gesix/CMake作业/modules/A1/include -g -o CMakeFiles/M1.dir/src/M1.cpp.o -c /home/gesix/CMake作业/modules/M1/src/M1.cpp",
+  "file": "/home/gesix/CMake作业/modules/M1/src/M1.cpp"
+},
+{
+  "directory": "/home/gesix/CMake作业/build/modules/M2",
+  "command": "/usr/bin/c++  -I/home/gesix/CMake作业/modules/M2/include -I/home/gesix/CMake作业/modules/A2/include -I/home/gesix/CMake作业/modules/A1/include -I/home/gesix/CMake作业/common/kalman/include -isystem /usr/include/opencv4 -g -o CMakeFiles/M2.dir/src/M2.cpp.o -c /home/gesix/CMake作业/modules/M2/src/M2.cpp",
+  "file": "/home/gesix/CMake作业/modules/M2/src/M2.cpp"
+}
+]
